@@ -1,0 +1,1 @@
+# generate-label-barang
